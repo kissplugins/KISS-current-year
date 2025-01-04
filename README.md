@@ -1,7 +1,3 @@
-Below is an example of a well-structured `README.md` file in Markdown format for your **Hypercart - Current Year** WordPress plugin repository. Feel free to adjust or add any sections according to your needs.
-
----
-
 # Hypercart - Current Year
 
 **Contributors:** [YourName or Hypercart]  
