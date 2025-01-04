@@ -1,7 +1,7 @@
 # Hypercart - Current Year
 
-**Contributors:** [YourName or Hypercart]  
-**Plugin URI:** [https://hypercart.io](https://hypercart.io)  
+**Contributors:** KISS Plugins
+**Plugin URI:** [https://kissplugins.com](https://kissplugins.com)  
 **Tags:** shortcode, year, current year, copyright  
 **Requires at least:** 4.6  
 **Tested up to:** 6.3  
@@ -87,7 +87,7 @@ We welcome contributions and feedback. If you find a bug or would like to sugges
 
 This plugin is distributed under the [GPL v2 or later](https://www.gnu.org/licenses/gpl-2.0.html).  
 
-> **Note**: For any licensing questions or clarifications, feel free to [contact us](mailto:youremail@example.com).
+> **Note**: Use this plugin at your own risk. Please test first on a development or staging server.
 
 ---
 
