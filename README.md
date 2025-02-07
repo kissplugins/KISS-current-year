@@ -93,3 +93,9 @@ This plugin is distributed under the [GPL v2 or later](https://www.gnu.org/licen
 
 **Thank you for using Hypercart - Current Year!**  
 If you find this plugin helpful, please consider giving us a star on GitHub or sharing it with your friends.
+
+**Follow Us on Blue Sky:**
+https://bsky.app/profile/kissplugins.bsky.social
+
+© Copyright Hypercart D.B.A. Neochrome, Inc.
+
